@@ -21,3 +21,4 @@ Responsive Design: Ensure the form adapts gracefully to different screen sizes, 
  File Structure:
 index.html: Contains the HTML structure of the registration form.
 styles.css: Contains the CSS styles for formatting and layout.
+Throughout the development process, I have focused on creating a seamless and engaging user experience while adhering to best practices in front-end development. The project demonstrates my proficiency in HTML, CSS and my ability to design and develop a functional and visually appealing website.
